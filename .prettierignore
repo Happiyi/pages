@@ -1,0 +1,20 @@
+## 通用
+.DS_Store
+node_modules
+*.log
+logs
+log
+
+# 构建产物
+lib
+docs
+coverage
+
+# 不必检查的后缀
+*.md
+*.yml
+*.ejs
+*ignore
+
+# 忽略的文件
+package-lock.json

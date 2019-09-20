@@ -1,0 +1,16 @@
+master:
+    push:
+        - network: devnet
+          needGit: true
+          envFrom: https://git.code.oa.com/xcatliu/token/blob/master/env
+          docker:
+              image: node:10
+          stages:
+              - name: install tnpm
+                script: npm install @tencent/tnpm -g --registry=http://r.tnpm.oa.com
+              - name: install
+                script: tnpm install
+              - name: test
+                script: npm test
+              # - name: oa-pages
+              #   script: bash ./scripts/config-git.sh && bash ./scripts/deploy.sh

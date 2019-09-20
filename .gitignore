@@ -1,0 +1,10 @@
+## 通用
+.DS_Store
+node_modules
+*.log
+logs
+log
+
+## 构建产物
+lib
+coverage
