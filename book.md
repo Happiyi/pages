@@ -21,7 +21,7 @@
 - `Squoosh!`：谷歌开源的图片压缩 web 程序。[link:github.com](https://github.com/GoogleChromeLabs/squoosh/)
 - `Zero Server`：零配置 web 开发环境。[link:github.com](https://github.com/remoteinterview/zero)
 - `Strapi`：开源 node.js headless CMS，轻松构建可定制的 API。[link:github.com](https://github.com/strapi/strapi)
-- `Single spa`：前端微服务的 javascript 框架。[link:github.com]https://github.com/CanopyTax/single-spa)
+- `Single spa`：前端微服务的 javascript 框架。[link:github.com](https://github.com/CanopyTax/single-spa)
 
 ### 流程类
 
