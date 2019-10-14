@@ -2,6 +2,7 @@
 
 ### 代码类
 
+- `Awesome-1kb`：腾讯新闻前端团队整理小而精的代码组件。 [link:github.com](https://github.com/Tnfe/awesome-1kb)
 - `30-seconds-of-code`：大量有用的 Javascript 片段,你可以在 30 秒或更少时间中理解。 [link:github.com](https://github.com/30-seconds/30-seconds-of-code)
 - `You (Might) Don't Need jQuery`：我们不需要从头开始学习 jQuery 来处理 DOM 操作或事件处理。 [link:github.com](https://github.com/nefe/You-Dont-Need-jQuery)
 - `Editor.js`：下一代块样式编辑器。 [link:github.com](https://github.com/codex-team/editor.js)
@@ -14,6 +15,7 @@
 
 ### 开发环境类
 
+- `Node Gateway`：高效的前端接入层解决方案 [link:home](http://ngw.oa.com/) / [link:git.oa.com](https://git.code.oa.com/ngw/ngw)
 - `Awesome Mac`：好用的 Mac 应用程序、软件以及工具 [link:github.com](https://github.com/jaywcjlove/awesome-mac/)
 - `开发效率提升：Mac生产力工具链推荐`：工欲善其事必先利其器! [link:github.com](https://github.com/Louiszhai/tool)
 - `Hyperapp`：小而美的前端开发框架。[link:github.com](https://github.com/jorgebucaran/hyperapp)
@@ -30,6 +32,7 @@
 
 ### 动画类
 
+- `javierbyte`：一个 ui 工程师实现有意思的项目。[link:home](https://javier.xyz/) / [link:github.com](https://github.com/javierbyte)
 - `lax.js`：简单和轻量级动画库。[link:github.com](https://github.com/alexfoxy/laxxx)
 - `PixiJS`：H5 动画引擎 webgl 驱动。[link:github.com](https://github.com/pixijs/pixi.js)
 - `Matplotlib`：python 绘制可视化图标。[link:github.com](https://github.com/matplotlib/matplotlib)
